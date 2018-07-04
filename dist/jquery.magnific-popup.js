@@ -20,7 +20,7 @@ if (typeof define === 'function' && define.amd) {
  * Magnific Popup Core JS file
  * 
  */
-
+	
 
 /**
  * Private static constants
